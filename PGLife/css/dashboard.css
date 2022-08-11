@@ -1,0 +1,33 @@
+/* Class Selectors */
+.img-row{
+  margin-top: 20px;
+}
+
+.usr-img{
+  box-shadow: 0 0 3px 1px rgba(0,0,0,0.4);
+  padding: 12px;
+  border-radius: 50%;
+}
+
+.usr-details{
+  margin-top: 20px;
+  padding-top: 13px;
+  line-height: 0.9;
+  font-size: 0.9rem;
+}
+
+.usr-details :first-child{
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.edit-profile-link{
+  font-size: 0.9rem;
+  /* position: relative;
+  top: -20px;
+  left: 10px; */
+}
+
+.hide{
+  display: none;
+}
